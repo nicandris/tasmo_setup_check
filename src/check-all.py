@@ -65,4 +65,4 @@ if __name__ == '__main__':
             checkTime(url)
         except Exception as e:
             pe(e)
-        break
+        #break

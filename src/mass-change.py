@@ -22,4 +22,4 @@ def change(url):
 if __name__ == '__main__':
     for url in _URLS:
         change(url)
-        break
+        #break

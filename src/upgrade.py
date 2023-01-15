@@ -13,4 +13,4 @@ def tasmotaUpgrade(url):
 if __name__ == '__main__':
     for url in _URLS:
         tasmotaUpgrade(url)
-        break
+        #break

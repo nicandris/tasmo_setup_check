@@ -1,6 +1,6 @@
 from os import path as _path
 
-BACKUP_FOLDER = '../Backups'
+BACKUP_FOLDER = '../../Backups'
 
 
 def get_output_file(filename):
